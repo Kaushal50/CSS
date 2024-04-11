@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 10px;
+}
+
+
+
+
+
+a {
+   
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+#a {
+        background-color: aqua;
+}
+#b { background-color: blue; color: aliceblue;}
+#c { background-color: brown; color: white;}
+#d { background-color: burlywood;}
+#e { background-color: cadetblue;}
+#f { background-color: chartreuse;}
+#g { background-color: darkgrey;}
+#h { background-color: dodgerblue;}
+#i {background-color: honeydew;}
+#j {background-color: orange;}

@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sec1img{
+    height: 830px;
+    width: 1433px;}
+ .sec1imgs2{
+    height: 780px;
+    width: 1653px;
+    margin-top: -900px;
+    margin-left: -221px;
+} 
+.sec1font{
+    font-size: 17px;
+
+font-weight: 200;
+font-family: "Chivo";
+display: flex;
+    column-gap: 80px;
+    margin-left: 130px;
+
+margin-top: -750px;
+}
+
+a:visited {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+.sec1imgs3{
+     height: 60px;
+
+    margin-top: -750px;
+    margin-left: 607px;
+}
+
+.sec1fonts{
+    font-size: 36px;
+text-transform: uppercase;
+color: #ffffff;
+font-weight: 200;
+font-family: "Chivo";
+/* text-align: right; */
+margin-top:160px;
+margin-left: 800px;
+}
+
+.sec1font2{
+    font-size: 23px;
+text-transform: uppercase;
+color: #ffc901;
+font-weight: 400;
+font-family: "Chivo";
+margin-left: 1070px;
+margin-top: 0px;
+}
+
+.sec1imgs4{
+    margin-left: 1050px;
+    height: 100px;
+    width: 210px;
+    margin-top: 70px;
+}
+
+.sec1font3{
+    font-size: 43px;
+line-height: 46px;
+text-transform: uppercase;
+color: #ffffff;
+font-weight: 200;
+font-family: "Chivo";
+margin-left: 1050px;
+margin-top: 120px;
+}
+.sec1font4{
+    font-size: 43px;
+    line-height: 46px;
+    text-transform: uppercase;
+    color: orange;
+    font-weight: 200;
+    font-family: "Chivo";
+     margin-left: 150px;
+    margin-top: -45px; 
+}
+
+.sec2imgs1{
+    width:1433px;
+    margin-top: 13px;
+}
+
+.sec2shapes1{
+    width: 53px;
+height: 17px;
+
+margin-top: -900px;
+margin-bottom: 700px;
+margin-left: 90px;
+}
+
+ .sec2lgrams{
+       margin-top: -730px;
+       margin-left: 220px;
+       color: white;
+     font-size: xx-large;
+} 
+.sec2shapes2{
+    width: 53px;
+height: 17px;
+
+margin-top: -27px;
+margin-bottom: 700px;
+margin-left:450px;
+}
+
+.sec2lorem{
+    margin-top: -590px;
+    color: white;
+    margin-left: 100px;
+}
+
+
+
+    .parent{
+        background-color: black;
+        position: relative;
+
+    }
+
+
+.sec3img1{ 
+    height: 780px;
+    width: 1433px;
+    margin-top:622px;
+    /* position: absolute; */
+
+}
+
+.sec3imgs2{
+    margin-top: px;
+        height: 660px;
+}
